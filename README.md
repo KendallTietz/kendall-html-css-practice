@@ -1,4 +1,4 @@
 # HTML Practice Assignment 
 
-Kendall Tietz
-Due Sunday, February 8, 2020
+By Kendall Tietz
+The project is due on February 8, 2020
