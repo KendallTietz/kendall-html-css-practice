@@ -59,3 +59,8 @@ p, ul, ol, dl {
   .comment notes {
     border-style: solid;
   }
+
+  blockquote{
+    border-left: 4px solid grey;
+    padding-left: 20px;
+  }
